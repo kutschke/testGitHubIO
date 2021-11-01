@@ -1,2 +1,2 @@
 # testGitHubIO
-Testing per project GitHub.cio
+Testing per project GitHub.io
